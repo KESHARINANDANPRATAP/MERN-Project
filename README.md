@@ -1,1 +1,1 @@
-# MERN-Project
+They are written from your web store users' point of view, which will include your customers, but also any sales or support teams who might also use the web store. And they should be split into the smallest steps possible. The number of e-commerce user stories you need will vary depending on the scope of your project.
